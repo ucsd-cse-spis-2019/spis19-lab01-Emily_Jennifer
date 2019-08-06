@@ -1,1 +1,11 @@
+#Going North
+0 x*** -> N 0
+0 NE** -> W 1
+#Going West
+1 N*x* -> W 1
+1 x*** -> N 0
+#Going East
+2 *x** -> E 2
+#Going west
+3 ***x -> S 3
 
