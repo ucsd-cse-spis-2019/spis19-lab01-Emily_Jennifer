@@ -1,0 +1,16 @@
+#WEST
+0 **x* -> W 0
+0 *xW* -> E 1
+0 NEWx  -> S 3
+
+#EAST
+1 *x** -> E 1
+1 xE*S -> W 2
+1 NEx* -> W 2
+
+#NORTH
+2 x*** -> N 0
+
+#SOUTH
+3 ***x -> S 3
+3 xEWS -> x 2
